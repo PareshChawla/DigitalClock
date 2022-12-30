@@ -1,3 +1,10 @@
+# DigitalClock
+
+##Output
+
+![image](https://user-images.githubusercontent.com/69500819/210052982-f3ab7127-dd3d-49dd-ad2f-ae5545ab0932.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
